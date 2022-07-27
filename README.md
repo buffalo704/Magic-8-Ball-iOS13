@@ -7,5 +7,5 @@ Project repo<br/>
 https://github.com/appbrewery/Magic-8-Ball-iOS13
 
 
-![](assets/i_am_poor.png)
+![](assets/magic_8_ball.png)
 
